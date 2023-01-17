@@ -44,10 +44,6 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-plain.svg" title="SPSS" **alt="SPSS" width="40" height="40"/>
 </div>
 
----
-
-### 🔥 My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamjosh11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
