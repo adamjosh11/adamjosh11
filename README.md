@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn.discordapp.com/attachments/670007877175607302/1065099506066137208/20230117_194408.jpg" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/josh-adams-ba4775260/">
