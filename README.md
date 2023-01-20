@@ -44,12 +44,14 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-plain.svg" title="SPSS" **alt="SPSS" width="40" height="40"/>
 </div>
 
-
-  *DISCLAIMER* My professors have asked me to keep my projects in private repos until graduation, but I'm free to talk about the following projects I've created:
+### My Stats 🔥
+  *DISCLAIMER* My professors have asked me to keep my projects in private repos until graduation, but I'm free to talk about the following projects I've created!
 - Webchat (Java/JavaScript)
 - FlappyBird (C++/SFML lib)
 - PacMan (Java)
 - Synthesizer (Java)
  
+![Josh Adams Github Stats](https://read-me-stats-finished.vercel.app/api?username=adamjosh11&count_private=true&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://read-me-stats-finished.vercel.app/api/top-langs/?username=adamjosh11&layout=compact&theme=vision-friendly-dark)](https://github.com/adamjosh11/readme-stats)
 
 
