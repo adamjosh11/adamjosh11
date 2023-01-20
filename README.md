@@ -45,5 +45,11 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
 </div>
 
 
+  *DISCLAIMER* My professors have asked me to keep my projects in private repos until graduation, but I'm free to talk about the following projects I've created:
+- Webchat (Java/JavaScript)
+- FlappyBird (C++/SFML lib)
+- PacMan (Java)
+- Synthesizer (Java)
+ 
 
 
