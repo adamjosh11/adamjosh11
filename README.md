@@ -58,6 +58,6 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
 - MyMallocReplacement (C++)
 - Thread-Safe Queue (C++)
  
-[![Top Langs](https://read-me-stats.vercel.app/api/top-langs/?username=adamjosh11&hide=html,dockerfile&layout=compact&theme=vision-friendly-dark)](https://github.com/adamjosh11/readme-stats)
+[![Top Langs](https://github-readme-stats-pi-nine-63.vercel.app/api/top-langs/?username=adamjosh11&hide=html,dockerfile&layout=compact&theme=vision-friendly-dark)](https://github.com/adamjosh11/readme-stats)
 
 
