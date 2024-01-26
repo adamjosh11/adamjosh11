@@ -58,7 +58,6 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
 - MyMallocReplacement (C++)
 - Thread-Safe Queue (C++)
  
-![Josh Adams Github Stats](https://read-me-stats.vercel.app/api?username=adamjosh11&count_private=true&layout=compact&theme=vision-friendly-dark) 
 [![Top Langs](https://read-me-stats.vercel.app/api/top-langs/?username=adamjosh11&layout=compact&theme=vision-friendly-dark)](https://github.com/adamjosh11/readme-stats)
 
 
