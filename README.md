@@ -46,7 +46,9 @@ I am an aspiring software engineer <img src="https://media.giphy.com/media/WUlpl
 </div>
 
 ### My Stats 🔥
-  *DISCLAIMER* My professors have asked me to keep my projects in private repos until graduation, but I'm free to talk about the following projects I've created!
+  *DISCLAIMER* My professors have asked me to keep my school projects in private repos, but I'm free to talk about the following projects I've created!
+- Humidity Predictor (C#, C++, Python, NoSQL) <href> https://github.com/adamjosh11/Humidity-Predictor </href>
+- Drawing Application (Kotlin/AndroidStudio)
 - Webchat (Java/JavaScript)
 - FlappyBird (C++/SFML lib)
 - PacMan (Java)
